@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69687fc-4fac-4f21-a877-a014c5f661ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Greeting/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserList/ListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserList/UserList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserList/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DeskYT" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fqrd19nIcLdfx2k8oG8dgV1yaI" />
@@ -61,18 +59,38 @@
       <updated>1596956548026</updated>
       <workItem from="1596956549925" duration="2424000" />
       <workItem from="1596959020296" duration="163000" />
-      <workItem from="1596959231585" duration="11849000" />
+      <workItem from="1596959231585" duration="12356000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1596971422971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596971422971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="109" key="CommitChangelistDialog2" timestamp="1596971530173">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="558" y="109" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1596971530173" />
     <state x="84" y="277" key="SettingsEditor" timestamp="1596959185374">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="84" y="277" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1596959185374" />
+    <state x="556" y="258" key="Vcs.Push.Dialog.v2" timestamp="1596971536105">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="556" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1596971536105" />
     <state x="-7" y="682" key="com.intellij.ide.util.TipDialog" timestamp="1596959019859">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
